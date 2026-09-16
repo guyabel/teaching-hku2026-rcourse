@@ -22,7 +22,7 @@ browseURL("https://github.com/guyabel/teaching-hku2026-rcourse/blob/main/exercis
 
 
 # 2. Adapt the plot above to add 
-#    a) horizontal line during the Khmer Rouge period (1975-1979) with colour 
+#    a) vertical line during the Khmer Rouge period (1975-1979) with colour 
 #       darkgrey in the background of the plot (plotted first)
 #    b) point sizes matching the population size in millions (divide pop by 1,000,000))
 #    c) point transparency of 0.25
