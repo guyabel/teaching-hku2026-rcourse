@@ -17,7 +17,7 @@ e_asia <- c(
   "China", "Japan", "South Korea", "North Korea", "Mongolia", "Taiwan"
 )
 
-e_asia_sf <- map("world", plot = FALSE, fill = TRUE) |> 
+e_asia_sf <- maps::map("world", plot = FALSE, fill = TRUE) |> 
   st_as_sf() |>
   filter(ID %in% e_asia)
 
