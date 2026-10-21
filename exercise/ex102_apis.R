@@ -4,7 +4,7 @@
 library(tidyverse)
 #    b) Load additional packages that we will use in this exercise
 # install.packages("jsonlite")
-# install.packages("rjtat")
+# install.packages("rjstat")
 # install.packages("eurostat")
 # install.packages("arrow")
 library(jsonlite)
