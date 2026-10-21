@@ -27,7 +27,7 @@ browseURL("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/re
 #    b. - Read the CSV data into R from the URL. 
 #       - Save as an object named los_angeles_pop 
 
-
+los_angeles_pop 
 # 2. a. View the "unhcr_popstats_export_persons_of_concern.csv" file on GitHub in 
 #       your browser.
 browseURL("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise-data/unhcr_popstats_export_persons_of_concern.csv")
@@ -36,7 +36,7 @@ browseURL("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/re
 #         the data correctly.   
 #       - Save as an object named unhcr_pop
 
-
+unhcr_pop
 # 3. a. View the "tgs00097.tsv" file on GitHub in your browser.
 browseURL("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise-data/tgs00097.tsv")
 #    b. - Read the TSV data into R from the URL. 
@@ -45,7 +45,7 @@ browseURL("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/re
 #       - Save as an object named eu_pop
 
 
-
+eu_pop
 # 4. a. View the "tabell.csv" file on GitHub in your browser.
 #       Note that the URL below is the GitHub page for the file, not the raw 
 #       version of the file - as we have used above. The raw version of this file
@@ -56,10 +56,10 @@ browseURL("https://github.com/guyabel/teaching-hku2026-rcourse/blob/main/exercis
 #       https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise-data/tabell.csv
 #       - Make sure to set the appropriate argument values (delim and skip)
 #         to read the data correctly. 
-#       - Save as an object named sweden_hh_pop
+#       - Save as an object named norway_hh
 
 
-
+norway_hh
 # 5. a. View the "12411-0013.csv" file on GitHub in your browser.
 browseURL("https://github.com/guyabel/teaching-hku2026-rcourse/blob/main/exercise-data/12411-0013.csv")
 #    b. Use n0 object below (uncomment) to later set the column names manually
@@ -73,7 +73,7 @@ n0 <- c("date", "name", "age",
 #         read the data correctly. 
 #       - Save as an object named germany_pop
 
-
+germany_pop
 # 6. a. Open the "SAPE18DT14.xls" file using the file.show() or system2 function
 file.show("./exercise-data/SAPE18DT14.xls")
 # system2(command = 'open', args = "./exercise-data/SAPE18DT14.xls")
@@ -83,7 +83,7 @@ file.show("./exercise-data/SAPE18DT14.xls")
 #         read the data correctly. 
 #       - Save as an object named ew_pop
 
-
+ew_pop
 # 7. a. Open the "WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT.xlsx" file 
 #       using the file.show() or system2 function
 file.show("./exercise-data/WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT.xlsx")
@@ -96,3 +96,4 @@ file.show("./exercise-data/WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT.xlsx")
 
 
 
+world
