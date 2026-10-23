@@ -1,24 +1,9 @@
 ﻿"area","house_size","pop"
-NA,"one","1 person"
-NA,"two","2 persons"
-NA,"three","3 persons"
-NA,"four","4 persons"
-NA,"gt_four","5 persons or more"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
 "0 The whole country","one","894126"
 "0 The whole country","two","723902"
 "0 The whole country","three","302680"
 "0 The whole country","four","285901"
 "0 The whole country","gt_four","142188"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
 "01 Østfold","one","46517"
 "01 Østfold","two","42477"
 "01 Østfold","three","17515"
@@ -114,11 +99,6 @@ NA,"gt_four",NA
 "0138 Hobøl","three","412"
 "0138 Hobøl","four","297"
 "0138 Hobøl","gt_four","123"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
 "02 Akershus","one","80534"
 "02 Akershus","two","76294"
 "02 Akershus","three","36346"
@@ -234,11 +214,6 @@ NA,"gt_four",NA
 "0239 Hurdal","three","171"
 "0239 Hurdal","four","144"
 "0239 Hurdal","gt_four","71"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
 "03 Oslo","one","157611"
 "03 Oslo","two","91699"
 "03 Oslo","three","36776"
@@ -249,11 +224,6 @@ NA,"gt_four",NA
 "0301 Oslo municipality","three","36776"
 "0301 Oslo municipality","four","31820"
 "0301 Oslo municipality","gt_four","14662"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
 "04 Hedmark","one","34886"
 "04 Hedmark","two","30309"
 "04 Hedmark","three","10862"
@@ -369,11 +339,6 @@ NA,"gt_four",NA
 "0441 Os (Hedm.)","three","123"
 "0441 Os (Hedm.)","four","86"
 "0441 Os (Hedm.)","gt_four","60"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
 "05 Oppland","one","33448"
 "05 Oppland","two","28416"
 "05 Oppland","three","10953"
@@ -509,11 +474,6 @@ NA,"gt_four",NA
 "0545 Vang","three","90"
 "0545 Vang","four","84"
 "0545 Vang","gt_four","38"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
 "06 Buskerud","one","44651"
 "06 Buskerud","two","39070"
 "06 Buskerud","three","16673"
@@ -624,11 +584,6 @@ NA,"gt_four",NA
 "0633 Nore og Uvdal","three","120"
 "0633 Nore og Uvdal","four","133"
 "0633 Nore og Uvdal","gt_four","82"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
 "07 Vestfold","one","40328"
 "07 Vestfold","two","36361"
 "07 Vestfold","three","14469"
@@ -704,11 +659,6 @@ NA,"gt_four",NA
 "0728 Lardal","three","146"
 "0728 Lardal","four","137"
 "0728 Lardal","gt_four","53"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
 "08 Telemark","one","30514"
 "08 Telemark","two","25770"
 "08 Telemark","three","10085"
@@ -804,16 +754,6 @@ NA,"gt_four",NA
 "0834 Vinje","three","229"
 "0834 Vinje","four","170"
 "0834 Vinje","gt_four","112"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
-"09 Aust-Agder","one","18536"
-"09 Aust-Agder","two","16074"
-"09 Aust-Agder","three","6630"
-"09 Aust-Agder","four","6335"
-"09 Aust-Agder","gt_four",NA
 "0901 Risør","one","1240"
 "0901 Risør","two","1003"
 "0901 Risør","three","391"
@@ -889,16 +829,6 @@ NA,"gt_four",NA
 "0941 Bykle","three","51"
 "0941 Bykle","four","51"
 "0941 Bykle","gt_four","31"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
-"10 Vest-Agder","one","29746"
-"10 Vest-Agder","two","24952"
-"10 Vest-Agder","three","9992"
-"10 Vest-Agder","four","9958"
-"10 Vest-Agder","gt_four",NA
 "1001 Kristiansand","one","16239"
 "1001 Kristiansand","two","12414"
 "1001 Kristiansand","three","4859"
@@ -974,11 +904,6 @@ NA,"gt_four",NA
 "1046 Sirdal","three","90"
 "1046 Sirdal","four","98"
 "1046 Sirdal","gt_four","75"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
 "11 Rogaland","one","68019"
 "11 Rogaland","two","59426"
 "11 Rogaland","three","26689"
@@ -1114,11 +1039,6 @@ NA,"gt_four",NA
 "1160 Vindafjord","three","465"
 "1160 Vindafjord","four","435"
 "1160 Vindafjord","gt_four","375"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
 "12 Hordaland","one","86383"
 "12 Hordaland","two","69803"
 "12 Hordaland","three","29494"
@@ -1289,11 +1209,6 @@ NA,"gt_four",NA
 "1266 Masfjorden","three","99"
 "1266 Masfjorden","four","78"
 "1266 Masfjorden","gt_four","67"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
 "14 Sogn og Fjordane","one","16737"
 "14 Sogn og Fjordane","two","13850"
 "14 Sogn og Fjordane","three","6056"
@@ -1429,16 +1344,6 @@ NA,"gt_four",NA
 "1449 Stryn","three","413"
 "1449 Stryn","four","327"
 "1449 Stryn","gt_four","315"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
-"15 Møre og Romsdal","one","41350"
-"15 Møre og Romsdal","two","36309"
-"15 Møre og Romsdal","three","15170"
-"15 Møre og Romsdal","four","13969"
-"15 Møre og Romsdal","gt_four",NA
 "1502 Molde","one","4682"
 "1502 Molde","two","3905"
 "1502 Molde","three","1498"
@@ -1619,16 +1524,6 @@ NA,"gt_four",NA
 "1576 Aure","three","190"
 "1576 Aure","four","162"
 "1576 Aure","gt_four","109"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
-"16 Sør-Trøndelag","one","59938"
-"16 Sør-Trøndelag","two","45384"
-"16 Sør-Trøndelag","three","18602"
-"16 Sør-Trøndelag","four","17724"
-"16 Sør-Trøndelag","gt_four",NA
 "1601 Trondheim","one","42047"
 "1601 Trondheim","two","28311"
 "1601 Trondheim","three","11108"
@@ -1754,16 +1649,6 @@ NA,"gt_four",NA
 "1665 Tydal","three","61"
 "1665 Tydal","four","34"
 "1665 Tydal","gt_four","25"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
-"17 Nord-Trøndelag","one","20496"
-"17 Nord-Trøndelag","two","19607"
-"17 Nord-Trøndelag","three","7524"
-"17 Nord-Trøndelag","four","7089"
-"17 Nord-Trøndelag","gt_four",NA
 "1702 Steinkjer","one","3655"
 "1702 Steinkjer","two","3334"
 "1702 Steinkjer","three","1171"
@@ -1879,16 +1764,6 @@ NA,"gt_four",NA
 "1756 Inderøy","three","379"
 "1756 Inderøy","four","337"
 "1756 Inderøy","gt_four","227"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
-"18 Nordland","one","41647"
-"18 Nordland","two","35020"
-"18 Nordland","three","14294"
-"18 Nordland","four","12128"
-"18 Nordland","gt_four",NA
 "1804 Bodø","one","8802"
 "1804 Bodø","two","7183"
 "1804 Bodø","three","3092"
@@ -2109,16 +1984,6 @@ NA,"gt_four",NA
 "1874 Moskenes","three","62"
 "1874 Moskenes","four","39"
 "1874 Moskenes","gt_four","35"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
-"19 Troms - Romsa","one","29551"
-"19 Troms - Romsa","two","23056"
-"19 Troms - Romsa","three","9955"
-"19 Troms - Romsa","four","8640"
-"19 Troms - Romsa","gt_four",NA
 "1902 Tromsø","one","14276"
 "1902 Tromsø","two","10213"
 "1902 Tromsø","three","4716"
@@ -2239,16 +2104,6 @@ NA,"gt_four",NA
 "1943 Kvænangen","three","69"
 "1943 Kvænangen","four","50"
 "1943 Kvænangen","gt_four","36"
-NA,"one",NA
-NA,"two",NA
-NA,"three",NA
-NA,"four",NA
-NA,"gt_four",NA
-"20 Finnmark - Finnmárku","one","13234"
-"20 Finnmark - Finnmárku","two","10025"
-"20 Finnmark - Finnmárku","three","4595"
-"20 Finnmark - Finnmárku","four","3661"
-"20 Finnmark - Finnmárku","gt_four",NA
 "2002 Vardø","one","546"
 "2002 Vardø","two","325"
 "2002 Vardø","three","126"
