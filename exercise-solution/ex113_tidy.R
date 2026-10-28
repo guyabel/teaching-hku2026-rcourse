@@ -4,7 +4,6 @@ library(tidyverse)
 #    b) run the code below to read the data for this exercise from the GitHub repository
 germany_pop1 <- read_csv("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise-data/germany_pop1.csv")
 norway_hh1 <- read_csv("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise-data/norway_hh1.csv")
-ew_pop1 <- read_csv("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise-data/ew_pop1.csv")
 mig_policy1 <- read_csv("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise-data/mig_policy1.csv")
 euro_pop1 <- read_csv("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise-data/euro_pop1.csv")
 ##
