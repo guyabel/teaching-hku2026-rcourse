@@ -7,6 +7,7 @@ world_pop0 <- read_csv("https://raw.githubusercontent.com/guyabel/teaching-hku20
 ew_pop0 <- read_csv("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise-data/ew_pop0.csv")
 norway_hh0 <- read_csv("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise-data/norway_hh0.csv")
 germany_pop0 <- read_csv("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise-data/germany_pop0.csv")
+euro_pop0 <- read_csv("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise-data/euro_pop0.csv")
 ##
 ##
 ##
