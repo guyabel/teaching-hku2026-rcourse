@@ -28,28 +28,7 @@ norway_hh2 <-
   
 norway_hh2
 
-# 3.  a) View ew_pop1 object
-ew_pop1
-#     b) Create an object ew_pop2, which updates ew_pop1 using the fill() function 
-#        to replace the NA values in the district column with the last non-NA value
-ew_pop2 <- 
-ew_pop2 
-#     c) Modify ew_pop2 to separate the age column so that
-#     - two new columns for the first and last age in each group are created 
-#        (called "first" and "last")
-#     - the original age column is not removed 
-#     - the new columns are integer values
-ew_pop2 <- 
-
-ew_pop2
-#     d) Check out the last few rows in ew_pop2
-tail(ew_pop2)
-#     e) Modify ew_pop2 to replace NA’s in the "last" column with 120 and check 
-#        out the last few rows
-ew_pop2 <- 
-tail(ew_pop2)
-
-# 4.  a) View the mig_policy object
+# 3.  a) View the mig_policy object
 mig_policy1
 #     b) Create an object called mig_policy2 by dropping the NA values in the 
 #        immigration column to leave 197 rows
@@ -66,7 +45,7 @@ mig_policy2
 mig_policy2 <- 
 mig_policy2
 
-# 5.  a) View the euro_pop1 object
+# 4.  a) View the euro_pop1 object
 euro_pop1
 #    b) Create an object called euro_pop2 that updates euro_pop1 by separating 
 #       first column into three new columns called "unit", "age" and "geo" 
