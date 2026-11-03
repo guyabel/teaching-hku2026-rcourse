@@ -1,0 +1,467 @@
+code,name,immigration,immigration_rationale,high_skilled,integration
+4,Afghanistan,Maintain,3,Maintain,No data available
+4,Afghanistan,Maintain,4,Maintain,No data available
+8,Albania,Maintain,No data available,Maintain,None of these
+12,Algeria,Maintain,3,Maintain,3
+12,Algeria,Maintain,4,Maintain,3
+20,Andorra,Maintain,3,Maintain,None of these
+20,Andorra,Maintain,4,Maintain,None of these
+24,Angola,Maintain,3,Raise,3
+24,Angola,Maintain,4,Raise,3
+28,Antigua and Barbuda,Maintain,No data available,Maintain,1
+31,Azerbaijan,Maintain,3,Raise,3
+31,Azerbaijan,Maintain,4,Raise,3
+32,Argentina,Maintain,3,Maintain,1
+32,Argentina,Maintain,3,Maintain,2
+32,Argentina,Maintain,3,Maintain,3
+36,Australia,Maintain,2,Maintain,1
+36,Australia,Maintain,2,Maintain,2
+36,Australia,Maintain,2,Maintain,3
+36,Australia,Maintain,3,Maintain,1
+36,Australia,Maintain,3,Maintain,2
+36,Australia,Maintain,3,Maintain,3
+36,Australia,Maintain,4,Maintain,1
+36,Australia,Maintain,4,Maintain,2
+36,Australia,Maintain,4,Maintain,3
+40,Austria,Raise,3,Raise,1
+40,Austria,Raise,3,Raise,2
+40,Austria,Raise,3,Raise,3
+44,Bahamas,Maintain,No data available,Maintain,None of these
+48,Bahrain,Lower,3,Lower,No data available
+48,Bahrain,Lower,4,Lower,No data available
+50,Bangladesh,Maintain,4,No data available,None of these
+51,Armenia,Maintain,2,Maintain,1
+51,Armenia,Maintain,2,Maintain,2
+51,Armenia,Maintain,2,Maintain,3
+51,Armenia,Maintain,3,Maintain,1
+51,Armenia,Maintain,3,Maintain,2
+51,Armenia,Maintain,3,Maintain,3
+52,Barbados,Lower,3,Raise,None of these
+52,Barbados,Lower,4,Raise,None of these
+56,Belgium,Maintain,3,Maintain,1
+56,Belgium,Maintain,3,Maintain,2
+56,Belgium,Maintain,3,Maintain,3
+64,Bhutan,Maintain,3,Maintain,None of these
+64,Bhutan,Maintain,4,Maintain,None of these
+68,Bolivia (Plurinational State of),Maintain,No data available,Maintain,2
+68,Bolivia (Plurinational State of),Maintain,No data available,Maintain,3
+70,Bosnia and Herzegovina,Maintain,No data available,Maintain,None of these
+72,Botswana,Maintain,3,Raise,None of these
+76,Brazil,Raise,1,Raise,1
+76,Brazil,Raise,2,Raise,1
+76,Brazil,Raise,3,Raise,1
+84,Belize,Lower,3,Maintain,None of these
+84,Belize,Lower,4,Maintain,None of these
+90,Solomon Islands,Maintain,3,Raise,No data available
+96,Brunei Darussalam,Maintain,3,Raise,None of these
+96,Brunei Darussalam,Maintain,4,Raise,None of these
+100,Bulgaria,Raise,3,Raise,1
+100,Bulgaria,Raise,3,Raise,2
+100,Bulgaria,Raise,3,Raise,3
+104,Myanmar,Maintain,4,Raise,No data available
+108,Burundi,No official policy,Not applicable,Raise,1
+108,Burundi,No official policy,Not applicable,Raise,2
+108,Burundi,No official policy,Not applicable,Raise,3
+112,Belarus,Raise,1,Raise,1
+112,Belarus,Raise,1,Raise,3
+112,Belarus,Raise,2,Raise,1
+112,Belarus,Raise,2,Raise,3
+112,Belarus,Raise,3,Raise,1
+112,Belarus,Raise,3,Raise,3
+116,Cambodia,Maintain,3,Maintain,None of these
+116,Cambodia,Maintain,4,Maintain,None of these
+120,Cameroon,Maintain,4,No official policy,1
+120,Cameroon,Maintain,4,No official policy,2
+120,Cameroon,Maintain,4,No official policy,3
+124,Canada,Maintain,3,Maintain,1
+124,Canada,Maintain,3,Maintain,2
+124,Canada,Maintain,3,Maintain,3
+124,Canada,Maintain,4,Maintain,1
+124,Canada,Maintain,4,Maintain,2
+124,Canada,Maintain,4,Maintain,3
+132,Cabo Verde,Maintain,3,No intervention,1
+132,Cabo Verde,Maintain,3,No intervention,2
+132,Cabo Verde,Maintain,3,No intervention,3
+140,Central African Republic,No intervention,Not applicable,No data available,No data available
+144,Sri Lanka,Maintain,3,Maintain,None of these
+148,Chad,Maintain,No data available,Raise,No data available
+152,Chile,Maintain,3,Maintain,2
+152,Chile,Maintain,3,Maintain,3
+156,China,Raise,3,Raise,None of these
+170,Colombia,Maintain,None of these,Raise,1
+170,Colombia,Maintain,None of these,Raise,2
+170,Colombia,Maintain,None of these,Raise,3
+174,Comoros,No intervention,Not applicable,No data available,No data available
+178,Congo,Maintain,No data available,No data available,None of these
+180,Democratic Republic of the Congo,Maintain,No data available,Raise,No data available
+184,Cook Islands,Maintain,3,Raise,No data available
+188,Costa Rica,Maintain,1,Maintain,1
+188,Costa Rica,Maintain,1,Maintain,2
+188,Costa Rica,Maintain,1,Maintain,3
+188,Costa Rica,Maintain,2,Maintain,1
+188,Costa Rica,Maintain,2,Maintain,2
+188,Costa Rica,Maintain,2,Maintain,3
+188,Costa Rica,Maintain,3,Maintain,1
+188,Costa Rica,Maintain,3,Maintain,2
+188,Costa Rica,Maintain,3,Maintain,3
+188,Costa Rica,Maintain,4,Maintain,1
+188,Costa Rica,Maintain,4,Maintain,2
+188,Costa Rica,Maintain,4,Maintain,3
+191,Croatia,Maintain,3,Raise,1
+191,Croatia,Maintain,3,Raise,2
+191,Croatia,Maintain,3,Raise,3
+191,Croatia,Maintain,4,Raise,1
+191,Croatia,Maintain,4,Raise,2
+191,Croatia,Maintain,4,Raise,3
+192,Cuba,Maintain,None of these,Maintain,None of these
+196,Cyprus,Maintain,3,Lower,1
+196,Cyprus,Maintain,3,Lower,2
+196,Cyprus,Maintain,3,Lower,3
+196,Cyprus,Maintain,4,Lower,1
+196,Cyprus,Maintain,4,Lower,2
+196,Cyprus,Maintain,4,Lower,3
+203,Czechia,No official policy,Not applicable,No official policy,1
+203,Czechia,No official policy,Not applicable,No official policy,3
+204,Benin,No intervention,No data available,No intervention,None of these
+208,Denmark,No official policy,Not applicable,Raise,1
+208,Denmark,No official policy,Not applicable,Raise,2
+212,Dominica,Maintain,3,Maintain,None of these
+214,Dominican Republic,Maintain,3,Maintain,None of these
+218,Ecuador,Lower,No data available,No intervention,3
+222,El Salvador,No intervention,Not applicable,Maintain,None of these
+226,Equatorial Guinea,Maintain,3,Raise,No data available
+231,Ethiopia,No intervention,No data available,Raise,None of these
+232,Eritrea,No intervention,Not applicable,Raise,No data available
+233,Estonia,Maintain,3,Raise,1
+233,Estonia,Maintain,3,Raise,2
+233,Estonia,Maintain,3,Raise,3
+233,Estonia,Maintain,4,Raise,1
+233,Estonia,Maintain,4,Raise,2
+233,Estonia,Maintain,4,Raise,3
+242,Fiji,Maintain,3,Maintain,3
+242,Fiji,Maintain,4,Maintain,3
+246,Finland,Raise,1,Raise,1
+246,Finland,Raise,1,Raise,2
+246,Finland,Raise,1,Raise,3
+246,Finland,Raise,2,Raise,1
+246,Finland,Raise,2,Raise,2
+246,Finland,Raise,2,Raise,3
+246,Finland,Raise,3,Raise,1
+246,Finland,Raise,3,Raise,2
+246,Finland,Raise,3,Raise,3
+250,France,Lower,3,Raise,1
+250,France,Lower,3,Raise,2
+250,France,Lower,3,Raise,3
+262,Djibouti,Lower,4,Maintain,None of these
+266,Gabon,Raise,1,Raise,2
+266,Gabon,Raise,1,Raise,3
+266,Gabon,Raise,3,Raise,2
+266,Gabon,Raise,3,Raise,3
+268,Georgia,Maintain,3,Raise,2
+268,Georgia,Maintain,3,Raise,3
+268,Georgia,Maintain,4,Raise,2
+268,Georgia,Maintain,4,Raise,3
+270,Gambia,Lower,4,Lower,No data available
+275,State of Palestine,No official policy,Not applicable,No data available,No data available
+276,Germany,Raise,1,Raise,1
+276,Germany,Raise,1,Raise,2
+276,Germany,Raise,1,Raise,3
+276,Germany,Raise,2,Raise,1
+276,Germany,Raise,2,Raise,2
+276,Germany,Raise,2,Raise,3
+276,Germany,Raise,3,Raise,1
+276,Germany,Raise,3,Raise,2
+276,Germany,Raise,3,Raise,3
+288,Ghana,Lower,No data available,No intervention,None of these
+296,Kiribati,Maintain,No data available,No data available,No data available
+300,Greece,Lower,3,Lower,1
+300,Greece,Lower,3,Lower,2
+300,Greece,Lower,3,Lower,3
+308,Grenada,No official policy,Not applicable,No official policy,3
+320,Guatemala,No intervention,Not applicable,Maintain,None of these
+324,Guinea,No intervention,Not applicable,No intervention,None of these
+328,Guyana,Maintain,4,Raise,None of these
+332,Haiti,Maintain,No data available,No data available,No data available
+336,Holy See,Maintain,No data available,No data available,No data available
+340,Honduras,Maintain,No data available,Maintain,None of these
+348,Hungary,Raise,1,Raise,1
+348,Hungary,Raise,1,Raise,2
+348,Hungary,Raise,1,Raise,3
+348,Hungary,Raise,3,Raise,1
+348,Hungary,Raise,3,Raise,2
+348,Hungary,Raise,3,Raise,3
+348,Hungary,Raise,4,Raise,1
+348,Hungary,Raise,4,Raise,2
+348,Hungary,Raise,4,Raise,3
+352,Iceland,Maintain,No data available,Raise,1
+352,Iceland,Maintain,No data available,Raise,2
+356,India,Maintain,No data available,Maintain,No data available
+360,Indonesia,Maintain,2,Maintain,1
+360,Indonesia,Maintain,2,Maintain,3
+360,Indonesia,Maintain,3,Maintain,1
+360,Indonesia,Maintain,3,Maintain,3
+360,Indonesia,Maintain,4,Maintain,1
+360,Indonesia,Maintain,4,Maintain,3
+364,Iran (Islamic Republic of),Lower,No data available,Maintain,No data available
+368,Iraq,Maintain,4,No official policy,2
+368,Iraq,Maintain,4,No official policy,3
+372,Ireland,Maintain,3,Raise,1
+372,Ireland,Maintain,3,Raise,2
+372,Ireland,Maintain,3,Raise,3
+376,Israel,Raise,1,Maintain,1
+376,Israel,Raise,1,Maintain,2
+380,Italy,Maintain,3,Raise,1
+380,Italy,Maintain,3,Raise,2
+380,Italy,Maintain,3,Raise,3
+380,Italy,Maintain,4,Raise,1
+380,Italy,Maintain,4,Raise,2
+380,Italy,Maintain,4,Raise,3
+384,Côte d'Ivoire,Maintain,No data available,Maintain,None of these
+388,Jamaica,Maintain,No data available,Raise,None of these
+392,Japan,Maintain,3,Raise,None of these
+398,Kazakhstan,Raise,3,Raise,3
+400,Jordan,Lower,4,Maintain,2
+400,Jordan,Lower,4,Maintain,3
+404,Kenya,Lower,4,Maintain,None of these
+408,Dem. People's Republic of Korea,Maintain,4,Maintain,None of these
+410,Republic of Korea,Raise,3,Raise,1
+410,Republic of Korea,Raise,3,Raise,3
+410,Republic of Korea,Raise,4,Raise,1
+410,Republic of Korea,Raise,4,Raise,3
+414,Kuwait,Lower,3,Raise,None of these
+414,Kuwait,Lower,4,Raise,None of these
+417,Kyrgyzstan,Maintain,3,Maintain,2
+418,Lao People's Democratic Republic,Maintain,3,Raise,No data available
+418,Lao People's Democratic Republic,Maintain,4,Raise,No data available
+422,Lebanon,Maintain,3,Maintain,3
+422,Lebanon,Maintain,4,Maintain,3
+426,Lesotho,No intervention,Not applicable,No intervention,No data available
+428,Latvia,Maintain,1,Raise,1
+428,Latvia,Maintain,2,Raise,1
+428,Latvia,Maintain,3,Raise,1
+428,Latvia,Maintain,4,Raise,1
+430,Liberia,Maintain,No data available,No data available,None of these
+434,Libya,Maintain,No data available,Maintain,No data available
+438,Liechtenstein,Maintain,No data available,Maintain,1
+440,Lithuania,Raise,1,Raise,2
+440,Lithuania,Raise,1,Raise,3
+440,Lithuania,Raise,2,Raise,2
+440,Lithuania,Raise,2,Raise,3
+440,Lithuania,Raise,3,Raise,2
+440,Lithuania,Raise,3,Raise,3
+442,Luxembourg,Maintain,3,Raise,1
+442,Luxembourg,Maintain,3,Raise,2
+442,Luxembourg,Maintain,3,Raise,3
+450,Madagascar,No official policy,Not applicable,Maintain,1
+450,Madagascar,No official policy,Not applicable,Maintain,3
+454,Malawi,Lower,No data available,Maintain,None of these
+458,Malaysia,Lower,3,Raise,None of these
+462,Maldives,Maintain,3,Raise,None of these
+466,Mali,Maintain,No data available,No intervention,None of these
+470,Malta,Maintain,No data available,Maintain,1
+470,Malta,Maintain,No data available,Maintain,2
+470,Malta,Maintain,No data available,Maintain,3
+478,Mauritania,Maintain,3,Maintain,No data available
+478,Mauritania,Maintain,4,Maintain,No data available
+480,Mauritius,Maintain,3,Raise,1
+480,Mauritius,Maintain,3,Raise,2
+480,Mauritius,Maintain,3,Raise,3
+484,Mexico,Maintain,3,Raise,1
+484,Mexico,Maintain,3,Raise,3
+492,Monaco,Maintain,No data available,No data available,3
+496,Mongolia,Maintain,2,Raise,1
+496,Mongolia,Maintain,2,Raise,2
+496,Mongolia,Maintain,2,Raise,3
+496,Mongolia,Maintain,3,Raise,1
+496,Mongolia,Maintain,3,Raise,2
+496,Mongolia,Maintain,3,Raise,3
+496,Mongolia,Maintain,4,Raise,1
+496,Mongolia,Maintain,4,Raise,2
+496,Mongolia,Maintain,4,Raise,3
+498,Republic of Moldova,Maintain,4,Maintain,1
+498,Republic of Moldova,Maintain,4,Maintain,2
+498,Republic of Moldova,Maintain,4,Maintain,3
+499,Montenegro,Maintain,3,Maintain,None of these
+504,Morocco,No official policy,Not applicable,Maintain,1
+504,Morocco,No official policy,Not applicable,Maintain,2
+504,Morocco,No official policy,Not applicable,Maintain,3
+508,Mozambique,Maintain,4,Maintain,No data available
+512,Oman,Lower,3,Lower,2
+512,Oman,Lower,3,Lower,3
+512,Oman,Lower,4,Lower,2
+512,Oman,Lower,4,Lower,3
+516,Namibia,Maintain,3,Raise,3
+516,Namibia,Maintain,4,Raise,3
+520,Nauru,Maintain,No data available,No data available,No data available
+524,Nepal,Maintain,3,Maintain,None of these
+528,Netherlands,Maintain,3,Raise,1
+528,Netherlands,Maintain,3,Raise,2
+548,Vanuatu,Maintain,No data available,Maintain,No data available
+554,New Zealand,Maintain,3,Raise,2
+554,New Zealand,Maintain,3,Raise,3
+554,New Zealand,Maintain,4,Raise,2
+554,New Zealand,Maintain,4,Raise,3
+558,Nicaragua,Maintain,None of these,Maintain,None of these
+562,Niger,Maintain,No data available,Maintain,None of these
+566,Nigeria,Maintain,No data available,Raise,3
+570,Niue,Raise,No data available,No data available,No data available
+578,Norway,Maintain,3,Raise,1
+578,Norway,Maintain,3,Raise,2
+578,Norway,Maintain,3,Raise,3
+583,Micronesia (Fed. States of),Maintain,No data available,Raise,No data available
+584,Marshall Islands,Maintain,3,Maintain,No data available
+584,Marshall Islands,Maintain,4,Maintain,No data available
+585,Palau,Maintain,3,Maintain,None of these
+585,Palau,Maintain,4,Maintain,None of these
+586,Pakistan,Lower,No data available,Maintain,None of these
+591,Panama,Maintain,3,Raise,2
+591,Panama,Maintain,3,Raise,3
+598,Papua New Guinea,Maintain,3,Raise,None of these
+598,Papua New Guinea,Maintain,4,Raise,None of these
+600,Paraguay,Maintain,No data available,Raise,3
+604,Peru,Maintain,4,Maintain,3
+608,Philippines,Maintain,3,Maintain,3
+608,Philippines,Maintain,4,Maintain,3
+616,Poland,Raise,1,Raise,1
+616,Poland,Raise,1,Raise,3
+616,Poland,Raise,2,Raise,1
+616,Poland,Raise,2,Raise,3
+616,Poland,Raise,3,Raise,1
+616,Poland,Raise,3,Raise,3
+616,Poland,Raise,4,Raise,1
+616,Poland,Raise,4,Raise,3
+620,Portugal,Raise,1,Raise,1
+620,Portugal,Raise,1,Raise,2
+620,Portugal,Raise,1,Raise,3
+620,Portugal,Raise,2,Raise,1
+620,Portugal,Raise,2,Raise,2
+620,Portugal,Raise,2,Raise,3
+620,Portugal,Raise,3,Raise,1
+620,Portugal,Raise,3,Raise,2
+620,Portugal,Raise,3,Raise,3
+620,Portugal,Raise,4,Raise,1
+620,Portugal,Raise,4,Raise,2
+620,Portugal,Raise,4,Raise,3
+624,Guinea-Bissau,No intervention,No data available,No intervention,No data available
+626,Timor-Leste,Maintain,No data available,Maintain,No data available
+634,Qatar,Lower,3,Raise,None of these
+634,Qatar,Lower,4,Raise,None of these
+642,Romania,Raise,2,Raise,1
+642,Romania,Raise,2,Raise,2
+642,Romania,Raise,2,Raise,3
+642,Romania,Raise,3,Raise,1
+642,Romania,Raise,3,Raise,2
+642,Romania,Raise,3,Raise,3
+643,Russian Federation,Raise,1,Raise,1
+643,Russian Federation,Raise,1,Raise,3
+643,Russian Federation,Raise,2,Raise,1
+643,Russian Federation,Raise,2,Raise,3
+643,Russian Federation,Raise,3,Raise,1
+643,Russian Federation,Raise,3,Raise,3
+646,Rwanda,Raise,3,Raise,None of these
+659,Saint Kitts and Nevis,Maintain,4,Maintain,None of these
+662,Saint Lucia,Maintain,No data available,Maintain,No data available
+670,Saint Vincent and the Grenadines,Maintain,No data available,Maintain,No data available
+674,San Marino,Raise,3,No intervention,3
+678,Sao Tome and Principe,No intervention,Not applicable,No data available,No data available
+682,Saudi Arabia,Lower,4,Maintain,None of these
+686,Senegal,No official policy,Not applicable,No official policy,3
+688,Serbia,Maintain,1,Maintain,None of these
+688,Serbia,Maintain,2,Maintain,None of these
+688,Serbia,Maintain,3,Maintain,None of these
+690,Seychelles,Lower,4,Maintain,No data available
+694,Sierra Leone,No intervention,Not applicable,No intervention,No data available
+702,Singapore,Maintain,1,Lower,1
+702,Singapore,Maintain,2,Lower,1
+702,Singapore,Maintain,3,Lower,1
+702,Singapore,Maintain,4,Lower,1
+703,Slovakia,Maintain,1,Raise,1
+703,Slovakia,Maintain,1,Raise,2
+703,Slovakia,Maintain,1,Raise,3
+703,Slovakia,Maintain,2,Raise,1
+703,Slovakia,Maintain,2,Raise,2
+703,Slovakia,Maintain,2,Raise,3
+703,Slovakia,Maintain,3,Raise,1
+703,Slovakia,Maintain,3,Raise,2
+703,Slovakia,Maintain,3,Raise,3
+704,Viet Nam,Maintain,No data available,Raise,No data available
+705,Slovenia,Maintain,1,Raise,1
+705,Slovenia,Maintain,1,Raise,2
+705,Slovenia,Maintain,1,Raise,3
+705,Slovenia,Maintain,2,Raise,1
+705,Slovenia,Maintain,2,Raise,2
+705,Slovenia,Maintain,2,Raise,3
+705,Slovenia,Maintain,3,Raise,1
+705,Slovenia,Maintain,3,Raise,2
+705,Slovenia,Maintain,3,Raise,3
+706,Somalia,No intervention,Not applicable,No data available,No data available
+710,South Africa,Maintain,3,Raise,3
+716,Zimbabwe,No intervention,Not applicable,Raise,No data available
+724,Spain,Maintain,3,Raise,1
+724,Spain,Maintain,3,Raise,2
+724,Spain,Maintain,3,Raise,3
+724,Spain,Maintain,4,Raise,1
+724,Spain,Maintain,4,Raise,2
+724,Spain,Maintain,4,Raise,3
+728,South Sudan,No data available,No data available,No data available,No data available
+729,Sudan,Maintain,No data available,No data available,No data available
+740,Suriname,Maintain,No data available,Raise,None of these
+748,Eswatini,Maintain,No data available,No data available,None of these
+752,Sweden,Raise,2,Raise,1
+752,Sweden,Raise,2,Raise,2
+752,Sweden,Raise,2,Raise,3
+752,Sweden,Raise,3,Raise,1
+752,Sweden,Raise,3,Raise,2
+752,Sweden,Raise,3,Raise,3
+756,Switzerland,Lower,3,Maintain,1
+756,Switzerland,Lower,3,Maintain,2
+756,Switzerland,Lower,3,Maintain,3
+756,Switzerland,Lower,4,Maintain,1
+756,Switzerland,Lower,4,Maintain,2
+756,Switzerland,Lower,4,Maintain,3
+760,Syrian Arab Republic,Maintain,3,Maintain,None of these
+760,Syrian Arab Republic,Maintain,4,Maintain,None of these
+762,Tajikistan,Maintain,None of these,No data available,3
+764,Thailand,Raise,3,Raise,3
+764,Thailand,Raise,4,Raise,3
+768,Togo,No intervention,Not applicable,No intervention,None of these
+776,Tonga,Maintain,No data available,Raise,No data available
+780,Trinidad and Tobago,Maintain,3,Raise,2
+784,United Arab Emirates,Maintain,3,Raise,None of these
+784,United Arab Emirates,Maintain,4,Raise,None of these
+788,Tunisia,No intervention,No data available,No intervention,None of these
+792,Türkiye,Maintain,3,Raise,3
+795,Turkmenistan,Lower,4,No data available,None of these
+798,Tuvalu,Maintain,No data available,No data available,No data available
+800,Uganda,No intervention,Not applicable,No intervention,None of these
+804,Ukraine,Raise,1,Raise,1
+804,Ukraine,Raise,1,Raise,2
+804,Ukraine,Raise,1,Raise,3
+804,Ukraine,Raise,2,Raise,1
+804,Ukraine,Raise,2,Raise,2
+804,Ukraine,Raise,2,Raise,3
+804,Ukraine,Raise,3,Raise,1
+804,Ukraine,Raise,3,Raise,2
+804,Ukraine,Raise,3,Raise,3
+807,North Macedonia,Maintain,3,Maintain,None of these
+818,Egypt,Lower,3,Maintain,3
+818,Egypt,Lower,4,Maintain,3
+826,United Kingdom,Lower,4,Lower,1
+826,United Kingdom,Lower,4,Lower,2
+826,United Kingdom,Lower,4,Lower,3
+834,United Republic of Tanzania,No intervention,Not applicable,No data available,None of these
+840,United States of America,Maintain,3,Maintain,1
+840,United States of America,Maintain,3,Maintain,3
+854,Burkina Faso,No intervention,Not applicable,No intervention,None of these
+858,Uruguay,Raise,1,Raise,3
+858,Uruguay,Raise,2,Raise,3
+858,Uruguay,Raise,3,Raise,3
+860,Uzbekistan,Maintain,No data available,Maintain,No data available
+862,Venezuela (Bolivarian Republic of),Maintain,4,Maintain,1
+862,Venezuela (Bolivarian Republic of),Maintain,4,Maintain,2
+862,Venezuela (Bolivarian Republic of),Maintain,4,Maintain,3
+882,Samoa,Maintain,3,Maintain,None of these
+882,Samoa,Maintain,4,Maintain,None of these
+887,Yemen,Lower,4,Maintain,No data available
+894,Zambia,Maintain,3,Maintain,None of these
+894,Zambia,Maintain,4,Maintain,None of these
