@@ -25,7 +25,7 @@ world_pop3
 #     - from nations, in 2020
 #     - sorted in descending order based on pop (largest country first)
 #     - with the pop column renamed to population
-#     - the name and centurion column only
+#     - the name and population column only
 
 
 
