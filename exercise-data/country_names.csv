@@ -1,0 +1,193 @@
+ID,name,iso3c
+10001,Afghanistan,AFG
+10002,Albania,ALB
+10003,Algeria,DZA
+10004,Andorra,AND
+10005,Angola,AGO
+10006,Antigua and Barbuda,ATG
+10007,Argentina,ARG
+10008,Anguilla,AIA
+10009,Armenia,ARM
+10010,Austria,AUT
+10011,Australia,AUS
+10012,Azerbaijan,AZE
+10013,Bahrain,BHR
+10014,Bahamas,BHS
+10015,Bangladesh,BGD
+10016,Barbados,BRB
+10017,Belarus,BLR
+10018,Belgium,BEL
+10019,Belize,BLZ
+10020,Benin,BEN
+10021,Bhutan,BTN
+10022,Bolivia,BOL
+10023,Bosnia and Herzegovina,BIH
+10024,Botswana,BWA
+10025,Brazil,BRA
+10026,Brunei,BRN
+10027,Bulgaria,BGR
+10028,Burkina Faso,BFA
+10029,Burundi,BDI
+10030,Cape Verde,CPV
+10031,Cambodia,KHM
+10032,Cameroon,CMR
+10033,Canada,CAN
+10034,Central African Republic,CAF
+10035,Chad,TCD
+10036,Chile,CHL
+10037,China,CHN
+10038,Colombia,COL
+10039,Comoros,COM
+10040,DR Congo,COD
+10041,Congo,COG
+10042,Costa Rica,CRI
+10043,Côte d'Ivoire,CIV
+10044,Croatia,HRV
+10045,Cuba,CUB
+10046,Cyprus,CYP
+10047,Czech Republic,CZE
+10048,Denmark,DNK
+10049,Djibouti,DJI
+10050,Dominica,DMA
+10051,Dominican Republic,DOM
+10052,East Timor,TLS
+10053,Ecuador,ECU
+10054,Egypt,EGY
+10055,El Salvador,SLV
+10056,Equatorial Guinea,GNQ
+10057,Eritrea,ERI
+10058,Estonia,EST
+10059,Eswatini,SWZ
+10060,Ethiopia,ETH
+10061,Faeroe Islands,FRO
+10062,Falkland Islands,FLK
+10063,Fiji,FJI
+10064,Finland,FIN
+10065,France,FRA
+10066,Gabon,GAB
+10067,Gambia,GMB
+10068,Georgia,GEO
+10069,Germany,DEU
+10070,Ghana,GHA
+10071,Gibraltar,GIB
+10072,Greece,GRC
+10073,Grenada,GRD
+10074,Guatemala,GTM
+10075,Guinea,GIN
+10076,Guinea-Bissau,GNB
+10077,Guyana,GUY
+10078,Haiti,HTI
+10079,Honduras,HND
+10080,Hong Kong,HKG
+10081,Hungary,HUN
+10082,Iceland,ISL
+10083,India,IND
+10084,Indonesia,IDN
+10085,Iran,IRN
+10086,Iraq,IRQ
+10087,Ireland,IRL
+10088,Isle of Man,IMN
+10089,Israel,ISR
+10090,Italy,ITA
+10091,Jamaica,JAM
+10092,Japan,JPN
+10093,Jordan,JOR
+10094,Kazakhstan,KAZ
+10095,Kenya,KEN
+10097,Kuwait,KWT
+10098,Kyrgyzstan,KGZ
+10099,Laos,LAO
+10100,Latvia,LVA
+10101,Lebanon,LBN
+10102,Lesotho,LSO
+10103,Liberia,LBR
+10104,Libya,LBY
+10105,Liechtenstein,LIE
+10106,Lithuania,LTU
+10107,Luxembourg,LUX
+10108,Macau,MAC
+10109,Madagascar,MDG
+10110,Malawi,MWI
+10111,Malaysia,MYS
+10112,Maldives,MDV
+10113,Mali,MLI
+10114,Malta,MLT
+10115,Mauritania,MRT
+10116,Mauritius,MUS
+10117,Mexico,MEX
+10118,Moldova,MDA
+10119,Monaco,MCO
+10120,Mongolia,MNG
+10121,Montenegro,MNE
+10122,Morocco,MAR
+10123,Mozambique,MOZ
+10124,Myanmar,MMR
+10125,Namibia,NAM
+10126,Nepal,NPL
+10127,Netherlands,NLD
+10128,New Zealand,NZL
+10129,Nicaragua,NIC
+10130,Niger,NER
+10131,Nigeria,NGA
+10132,North Korea,PRK
+10133,North Macedonia,MKD
+10134,Norway,NOR
+10135,Oman,OMN
+10136,Pakistan,PAK
+10137,Panama,PAN
+10138,Paraguay,PRY
+10139,Peru,PER
+10140,Philippines,PHL
+10141,Poland,POL
+10142,Portugal,PRT
+10143,Qatar,QAT
+10144,Romania,ROU
+10145,Russia,RUS
+10146,Rwanda,RWA
+10147,Saint Helena,SHN
+10148,Saint Kitts and Nevis,KNA
+10149,Saint Lucia,LCA
+10150,Saint Vincent and the Grenadines,VCT
+10151,San Marino,SMR
+10152,Sao Tome & Principe,STP
+10153,Saudi Arabia,SAU
+10154,Senegal,SEN
+10155,Serbia,SRB
+10156,Seychelles,SYC
+10157,Sierra Leone,SLE
+10158,Singapore,SGP
+10159,Slovakia,SVK
+10160,Slovenia,SVN
+10161,Somalia,SOM
+10162,South Africa,ZAF
+10163,South Korea,KOR
+10164,South Sudan,SSD
+10165,Spain,ESP
+10166,Sri Lanka,LKA
+10167,Palestine,PSE
+10168,Sudan,SDN
+10169,Suriname,SUR
+10170,Sweden,SWE
+10171,Switzerland,CHE
+10172,Syria,SYR
+10173,Taiwan,TWN
+10174,Tajikistan,TJK
+10175,Tanzania,TZA
+10176,Thailand,THA
+10177,Togo,TGO
+10178,Trinidad and Tobago,TTO
+10179,Tunisia,TUN
+10180,Turkey,TUR
+10181,Turkmenistan,TKM
+10182,Uganda,UGA
+10183,Ukraine,UKR
+10184,United Arab Emirates,ARE
+10185,United Kingdom,GBR
+10186,United States,USA
+10187,Uruguay,URY
+10188,Uzbekistan,UZB
+10189,Venezuela,VEN
+10190,Vietnam,VNM
+10191,Yemen,YEM
+10192,Zambia,ZMB
+10193,Zimbabwe,ZWE
