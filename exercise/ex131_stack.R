@@ -52,7 +52,7 @@ nrow(r3)
 rr <- NULL
 for(i in 1:#####){
   r0 <- #####(path = "./exercise-data/WPP2024_POP_F02_1_POPULATION_5-YEAR_AGE_GROUPS_BOTH_SEXES.xlsx", 
-                   skip = #####, sheet = i, na = "...") |>
+                   skip = 16, sheet = #####, na = "...") |>
     select(-1,-4,-(6:10)) |>
     rename(variant = 1, 
            name = 2,
