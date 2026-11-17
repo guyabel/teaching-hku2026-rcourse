@@ -1,0 +1,12 @@
+name: hkg_pyramid0
+title: hkg_pyramid0
+username: guyabel
+account: guyabel
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a1e8b3-b80c-6fcf-ec8b-8c8da959410e
+bundleId:
+url: https://connect.posit.cloud/guyabel/content/01a1e8b3-b80c-6fcf-ec8b-8c8da959410e
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

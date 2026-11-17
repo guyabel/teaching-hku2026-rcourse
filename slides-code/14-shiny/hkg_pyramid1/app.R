@@ -15,8 +15,8 @@ ui <- fluidPage(
     inputId = "year", label = "Year",
     min = min(hkg_age$year),
     max = max(hkg_age$year),
-    value = 1950, step = 1, sep = "",
-    animate = TRUE
+    value = 1950, step = 1, sep = "", 
+    width = "100%", animate = TRUE
   ),
   plotOutput(outputId = "pyramid")
 )
