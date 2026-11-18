@@ -1,0 +1,97 @@
+---
+title: "UK Net Migration: 1950-2023"
+author: "Your Name"
+format: html
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+# Introduction
+
+In this report, we analyse the historical trends in **net migration** to the *United Kingdom* from 1950 to 2023. Data are provided by the [United Nations World Population Prospects](https://population.un.org/wpp/). The time series reveals several distinct demographic phases, capturing a transition from a net sender of migrants to a major net receiver. 
+
+```{r}
+#| label: setup
+#| include: false
+
+library(tidyverse)
+uk_data <- read_csv("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/main/exercise-data/uk.csv")
+```
+
+# Post-War Dynamics and the Windrush Generation
+
+In the immediate post-war decades, the UK experienced complex migration dynamics characterised by simultaneous inflows and outflows. The arrival of the Windrush generation brought essential workers from the Caribbean to address severe domestic labour shortages. However, the aggregate data do not isolate these arrivals from total physical movements. In fact, net migration saw significant deficits in certain years, such as a loss of approximately 94,000 people in 1951. This indicates that the volume of Commonwealth arrivals was frequently offset by the simultaneous departure of UK citizens. 
+
+```{r}
+#| fig-cap: "UK net migration highlighted for the post-war era (1950-1970)."
+
+ggplot(data = uk_data, mapping = aes(x = year, y = net)) +
+  annotate("rect", xmin = 1950, xmax = 1970, ymin = -Inf, ymax = Inf, alpha = 0.2, fill = "blue") +
+  geom_hline(yintercept = 0, colour = "red", linetype = "dashed") +
+  geom_line(linewidth = 1) +
+  labs(x = "Year", y = "Net Migration (thousands)") +
+  theme_bw()
+```
+
+# Emigration and the Brain Drain
+
+The persistent net emigration recorded throughout much of the late twentieth century was driven largely by the outflow of UK-born individuals. Policymakers frequently referred to this phenomenon as a "brain drain" due to the loss of skilled professionals and scientists. Many citizens relocated to Commonwealth nations such as Australia, Canada, and New Zealand, aided by assisted passage migration schemes. For example, the data show a substantial net migration deficit persisting into the early 1980s, reaching a loss of nearly 84,000 in 1981. Consequently, the high public visibility of immigration during this era masked the underlying reality of a nation losing more people than it gained.
+
+```{r}
+#| fig-cap: "UK net migration highlighted for the period of heavy emigration (1971-1990)."
+
+ggplot(data = uk_data, mapping = aes(x = year, y = net)) +
+  annotate("rect", xmin = 1971, xmax = 1990, ymin = -Inf, ymax = Inf, alpha = 0.2, fill = "blue") +
+  geom_hline(yintercept = 0, colour = "red", linetype = "dashed") +
+  geom_line(linewidth = 1) +
+  labs(x = "Year", y = "Net Migration (thousands)") +
+  theme_bw()
+```
+
+# European Union Expansion
+
+A significant demographic shift occurred at the turn of the millennium as net migration turned sharply positive. The expansion of the European Union in 2004 accelerated this trend. Workers from newly acceded Eastern European states arrived to fill domestic labour shortages. By 2005, net migration reached over 308,000 individuals. As a result, international migration replaced natural increase as the primary driver of population growth.
+
+```{r}
+#| fig-cap: "UK net migration highlighted for the EU expansion era (1991-2015)."
+
+ggplot(data = uk_data, mapping = aes(x = year, y = net)) +
+  annotate("rect", xmin = 1991, xmax = 2015, ymin = -Inf, ymax = Inf, alpha = 0.2, fill = "blue") +
+  geom_hline(yintercept = 0, colour = "red", linetype = "dashed") +
+  geom_line(linewidth = 1) +
+  labs(x = "Year", y = "Net Migration (thousands)") +
+  theme_bw()
+```
+
+# Post-Brexit Dynamics
+
+Recent data indicate that high levels of net migration have persisted despite the departure from the European Union. In 2022, net migration peaked at approximately 487,000 people. This suggests that new immigration policies have altered the origin of migrants rather than reducing the total volume. Furthermore, humanitarian programmes for citizens of Ukraine and Hong Kong have contributed to these recent demographic gains. Nevertheless, this reliance on migration continues to shape the long-term age structure of the population.
+
+```{r}
+#| fig-cap: "UK net migration highlighted for post-Brexit dynamics (2016-2023)."
+
+ggplot(data = uk_data, mapping = aes(x = year, y = net)) +
+  annotate("rect", xmin = 2016, xmax = 2023, ymin = -Inf, ymax = Inf, alpha = 0.2, fill = "blue") +
+  geom_hline(yintercept = 0, colour = "red", linetype = "dashed") +
+  geom_line(linewidth = 1) +
+  labs(x = "Year", y = "Net Migration (thousands)") +
+  theme_bw()
+```
+
+# Methodology: Plotting the Time Series
+
+The time series visualisations in this report were created using the *ggplot2* package. The underlying code for the base plot, which displays the overall net migration trends without the period-specific highlights, is provided below. 
+
+```{r}
+#| echo: true
+#| fig-width: 10
+#| fig-height: 4
+
+ggplot(data = uk_data, mapping = aes(x = year, y = net)) +
+  geom_hline(yintercept = 0, colour = "red", linetype = "dashed") +
+  geom_line(linewidth = 1) +
+  labs(x = "Year", y = "Net Migration (thousands)") +
+  theme_bw()
+```
