@@ -12,7 +12,7 @@ download.file(url = "https://raw.githubusercontent.com/guyabel/teaching-hku2026-
 
 # 1. YAML Configuration
 #    a) Open "ex141_uk_migration.qmd".
-file.show("./exercise/ex141_uk_migration.qmd")
+system2(command = 'open', args = "./exercise/ex141_uk_migration.qmd")
 #    b) In the YAML header (between the --- lines), add the title: "UK Net Migration: 1950-2023".
 #    c) Add your name as the author.
 #    d) Set the format to html.
