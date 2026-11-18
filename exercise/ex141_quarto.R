@@ -8,7 +8,7 @@ dir.exists("exercise")
 # dir.create("exercise")
 #    d) Save the provided "ex141_uk_migration.qmd" in your exercise folder.
 download.file(url = "https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise/ex141_uk_migration.qmd", 
-              destfile = "./exericise/ex141_uk_migration.qmd")
+              destfile = "./exercise/ex141_uk_migration.qmd")
 
 # 1. YAML Configuration
 #    a) Open "ex141_uk_migration.qmd".
