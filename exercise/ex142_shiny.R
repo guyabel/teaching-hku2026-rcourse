@@ -12,7 +12,7 @@ dir.create("./exercise/ex142_shiny", recursive = TRUE)
 #    d) Run the code below to download the app.R template from GitHub directly 
 #       into your new folder.
 download.file(
-  url = "https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise/app.R",
+  url = "https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/exercise/ex142_shiny/app.R",
   destfile = "./exercise/ex142_shiny/app.R", 
   mode = "wb"
 )
@@ -23,7 +23,7 @@ download.file(
 # 1. Open the App Template
 #    a) Run the code below to open the newly downloaded "app.R" file located inside 
 #       the "ex142_shiny" folder.
-file.show("./ex142_shiny/app.R")
+system2(command = 'open', args = "./exercise/ex142_shiny/app.R")
 #    b) Run lines 1 to 12 to check the data can be read into your computer.
 #    c) Run the line below to check you have the country_choices object created
 country_choices
