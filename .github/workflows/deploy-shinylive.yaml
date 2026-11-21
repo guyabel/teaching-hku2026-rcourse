@@ -10,7 +10,7 @@ jobs:
   shinylive:
     uses: posit-dev/r-shinylive/.github/workflows/deploy-app.yaml@actions-v1
     with:
-      app-dir: assignment/assignment2_shiny
+      app-dir: assignment/assignment2-shiny
     permissions:
       pages: write
       id-token: write
