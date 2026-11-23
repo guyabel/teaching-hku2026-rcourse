@@ -2,7 +2,7 @@ library(tidyverse)
 library(shiny)
 library(bslib)
 
-hkg_age <- read_csv("https://raw.githubusercontent.com/guyabel/teaching-hku2026-rcourse/refs/heads/main/slides-data/hkg_age.csv") |>
+hkg_age <- read_csv("hkg_age.csv") |>
   pivot_longer(cols = c("male", "female"), names_to = "sex", values_to = "pop") |>
   mutate(pop_pm = ifelse(test = sex == "male", 
                          yes = -pop, no = pop),
