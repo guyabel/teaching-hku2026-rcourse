@@ -4,13 +4,23 @@ on:
   workflow_dispatch:
   push:
     branches: ["main"]
-  pull_request:
 
 jobs:
-  shinylive:
-    uses: posit-dev/r-shinylive/.github/workflows/deploy-app.yaml@actions-v1
-    with:
-      app-dir: assignment/assignment2-shiny
+  deploy:
+    runs-on: ubuntu-latest
     permissions:
+      contents: read
       pages: write
       id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Upload exported Shinylive site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: assignment2-shiny
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
