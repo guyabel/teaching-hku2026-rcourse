@@ -17,7 +17,7 @@ jobs:
       - name: Upload exported Shinylive site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: assignment2-shiny
+          path: site
 
   deploy:
     needs: build
